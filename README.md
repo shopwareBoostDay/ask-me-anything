@@ -4,7 +4,7 @@
 
 # Summary
 
-Starting with Boost Day #3 on March 11th, 2021 Shopware will answer questions from the community **during the intro presentation** of the [Shopware Boost Day](https://ecommerce.shopware.com/boost-days).
+Starting with Boost Day #4 on March 11th, 2021 Shopware will answer questions from the community **during the intro presentation** of the [Shopware Boost Day](https://ecommerce.shopware.com/boost-days).
 
 [This repository](https://github.com/shopwareBoostDay/ask-me-anything) is used to collect the questions from you prior to the event(s).
 
